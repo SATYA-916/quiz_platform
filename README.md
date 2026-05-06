@@ -6,6 +6,9 @@
 
 ## Live Demo
 
+🌐 Deployed Project:  
+https://satya-916.github.io/quiz_platform/
+
 Open `index.html` directly in any modern browser. No installation needed.
 
 ---
